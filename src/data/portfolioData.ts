@@ -14,8 +14,8 @@ export const personalInfo = {
   whatsappUrl: 'https://wa.me/252906079110', // Configurable WhatsApp link based on verified phone
   cvDownloadUrl: 'documents/Safia_Asad_Abdulkadir_CV.pdf',
   profileImages: {
-    hero: 'images/safia-profile-defense.jpg',
-    about: 'images/safia-profile-desk.jpg',
+    hero: 'images/safia-profile-hero.jpg',
+    about: 'images/safia-profile-about.jpg',
   },
   bioIntro: `Hello, I'm Safia Asad Abdulkadir, a Computer Science graduate candidate from East Africa University with a 3.9/4.0 GPA. I am passionate about building practical software applications, maintaining accurate data systems, and delivering dependable remote digital support.`,
   bioExtended: `With a strong academic foundation in software development and practical hands-on experience in database handling, web development, and digital systems, I bring meticulous attention to detail to both coding and administrative projects. My background spans ongoing software internships with CodeAlpha, advanced Full Stack React mentorship at Dugsiiye, and successful data entry internship experience at Amtel LTD. I communicate fluently in Somali, English, and Arabic, and I am eager to contribute effectively to international remote teams, NGOs, technology startups, and digital banking operations.`,

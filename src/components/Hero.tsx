@@ -135,7 +135,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCvModal }) => {
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/5] bg-slate-200">
                   <img
                     src={personalInfo.profileImages.hero}
-                    alt="Safia Asad Abdulkadir at East Africa University Thesis Defense Class of 2026"
+                    alt="Safia Asad Abdulkadir — Junior Software Developer & Remote Administrative Specialist"
                     className="w-full h-full object-cover object-top hover:scale-[1.02] transition-transform duration-500"
                     loading="eager"
                   />

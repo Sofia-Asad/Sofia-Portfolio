@@ -34,7 +34,7 @@ export const About: React.FC<AboutProps> = ({ onOpenDocument }) => {
                 <div className="relative rounded-2xl overflow-hidden aspect-[3/4] bg-slate-100">
                   <img
                     src={personalInfo.profileImages.about}
-                    alt="Safia Asad Abdulkadir with Fududeeye CRM and Marketplace Thesis Binder at East Africa University"
+                    alt="Safia Asad Abdulkadir seated at desk with Fududeeye CRM and Marketplace Thesis Binder"
                     className="w-full h-full object-cover object-top hover:scale-[1.02] transition-transform duration-500"
                     loading="lazy"
                   />
@@ -45,7 +45,7 @@ export const About: React.FC<AboutProps> = ({ onOpenDocument }) => {
                 <div className="mt-3 p-3 bg-white rounded-xl border border-slate-200/80">
                   <div className="flex items-start justify-between">
                     <div>
-                      <div className="text-xs font-bold text-navy-900">Thesis Defense Session</div>
+                      <div className="text-xs font-bold text-navy-900">Thesis Defense & Research</div>
                       <div className="text-[11px] text-slate-500">Fududeeye Marketplace & CRM Report</div>
                     </div>
                     <span className="text-[10px] font-semibold text-brand-700 bg-brand-50 px-2 py-0.5 rounded-full border border-brand-200">
