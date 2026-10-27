@@ -42,14 +42,18 @@ export const About: React.FC<AboutProps> = ({ onOpenDocument }) => {
                 </div>
                 
                 {/* Caption Card */}
-                <div className="mt-3 p-3 bg-white rounded-xl border border-slate-200/80">
-                  <div className="flex items-start justify-between">
+                <div className="mt-3 p-3.5 bg-white rounded-xl border border-slate-200/80 shadow-2xs">
+                  <div className="flex items-center justify-between gap-2">
                     <div>
-                      <div className="text-xs font-bold text-navy-900">Thesis Defense & Research</div>
-                      <div className="text-[11px] text-slate-500">Fududeeye Marketplace & CRM Report</div>
+                      <div className="text-xs sm:text-sm font-bold text-navy-900">
+                        Practical Software & Data Operations
+                      </div>
+                      <div className="text-[11px] text-slate-500">
+                        React • Python • SQL • Advanced Excel • Trilingual
+                      </div>
                     </div>
-                    <span className="text-[10px] font-semibold text-brand-700 bg-brand-50 px-2 py-0.5 rounded-full border border-brand-200">
-                      Verified
+                    <span className="text-[10px] font-bold text-brand-700 bg-brand-50 px-2.5 py-1 rounded-full border border-brand-200 shrink-0">
+                      GPA 3.90 / 4.00
                     </span>
                   </div>
                 </div>
